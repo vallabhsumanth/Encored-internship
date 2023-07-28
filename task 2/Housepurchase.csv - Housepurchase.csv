@@ -1,0 +1,25 @@
+Country,Age,Salary,House Purchased
+India,34,92000,Yes
+Srilanka,22,25000,Yes
+China,31,74000,Yes
+Srilanka,29,NaN,No
+China,55,98000,Yes
+India,24,30000,No
+Srilanka,28,40000,No
+India,NaN,60000,Nan
+China,51,89000,Yes
+India,44,78000,Yes
+China,21,20000,No
+Srilanka,25,30000,Yes
+China,33,45000,Yes
+India,42,65000,No
+India,33,22000,Yes
+Srilanka,NaN,30000,No
+India,25,60000,Yes
+china,27,50000,No
+Srilanka,30,45000,NaN
+China,52,67000,Yes
+India,48,80000,Yes
+China,25,NaN,No
+Srilanka,28,30000,Yes
+China,43,45000,Yes
